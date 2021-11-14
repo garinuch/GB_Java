@@ -25,13 +25,11 @@ public class Lesson3 {
         int[] arr = { 1, 1, 0, 0, 1, 0, 1, 1, 0, 0 };
         
         for (int i = 0; i < arr.length; i++){
-        
             System.out.print(arr[i]);
-        
-            arr[i] = (arr[i] == 0)? 1 : 0;
-        }
+           arr[i] = (arr[i] == 0)? 1 : 0
+           }
         System.out.println(Arrays.toString(arr));
-    }
+       }
     
     static void arr2() {
         
@@ -40,7 +38,6 @@ public class Lesson3 {
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i] = i + 1);
         }
-        
     }
     
     static void arr3() {
@@ -72,7 +69,6 @@ public class Lesson3 {
             }
         System.out.println();
         } 
-    
     }
     
     static int[] arr5(int len, int initialValue) { 
