@@ -26,10 +26,10 @@ public class Lesson3 {
         
         for (int i = 0; i < arr.length; i++){
             System.out.print(arr[i]);
-           arr[i] = (arr[i] == 0)? 1 : 0
-           }
+            arr[i] = (arr[i] == 0)? 1 : 0;
+        }
         System.out.println(Arrays.toString(arr));
-       }
+    }
     
     static void arr2() {
         
