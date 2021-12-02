@@ -1,4 +1,11 @@
-
+/**
+ *  Java 1. Lesson5
+ *
+ *  @author Igor Shirokov
+ *
+ *  @version 02.12.2021
+ *
+ */
 public class Lesson7 {
     public static void main(String[] args) {
         System.out.println("increase food by 10");
