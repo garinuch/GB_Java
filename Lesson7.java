@@ -1,5 +1,5 @@
 /**
- *  Java 1. Lesson5
+ *  Java 1. Lesson7
  *
  *  @author Igor Shirokov
  *
