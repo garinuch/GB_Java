@@ -1,4 +1,3 @@
-package Lesson8_1;
 /**
  *  Java 1. Lesson8
  *
