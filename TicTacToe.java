@@ -6,7 +6,6 @@
  *  @version 14.11.2021
  *
  */
-package game_TicTacToe;
 import java.util.Random;
 import java.util.Scanner;
 
